@@ -1,8 +1,14 @@
-package Agenda;
+package Agenda.classes;
 
 public class Pessoa {
-    protected String nome, email;
-    protected int telefone;
+    private String nome, email;
+    private int telefone;
+
+    public Pessoa(String nome, String email, int telefone) {
+        this.nome = nome;
+        this.email = email;
+        this.telefone = telefone;
+    }
 
     public void setNome(String nome) {
         this.nome = nome;
@@ -29,6 +35,6 @@ public class Pessoa {
     }
 
     public void mostraInfo() {
-        System.out.printf("Nome: %s\nEmail: %s\nTelefone: %d\n\n", this.nome, this.email, this.telefone);
+        System.out.printf("Nome: %s\nEmail: %s\nTelefone: %d\n", this.nome, this.email, this.telefone);
     }
 }
