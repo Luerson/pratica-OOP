@@ -1,3 +1,11 @@
+/*
+ * Alunos:
+ * Luerson de Albuqeuerque Silva Filho, 20220054900
+ * Camila Eduardo Costa Vasconcelos, 20220054768
+ *
+ * link para o diagrama que responde a letra a):
+ * https://drive.google.com/file/d/1qWmdLD-Oj6tjmxIor2MQfLO38i0BOO2W/view?usp=share_link
+ * */
 package Pagamentos.main;
 
 import Pagamentos.classes.BoletoBancario;
