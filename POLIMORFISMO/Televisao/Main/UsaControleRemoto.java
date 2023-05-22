@@ -1,3 +1,14 @@
+/*
+ * Alunos:
+ * Luerson de Albuqeuerque Silva Filho, 20220054900
+ * Camila Eduardo Costa Vasconcelos, 20220054768
+ *
+ * link para o diagrama que responde a letra a):
+ * https://lucid.app/lucidchart/a58c26ff-1e18-48bf-993f-79297a68fd97/edit?viewport_loc=256%2C-209%2C1552%2C681%2C0_0&invitationId=inv_feb083fc-cecb-4e10-b6f9-a3f5b8305023
+ *
+ * link para o diagrama que responde a letra c):
+ * https://lucid.app/lucidchart/e51831ca-4342-48a9-80cb-edb5ce42ae46/edit?invitationId=inv_ad10413d-dbb9-4df2-ad56-c9785409e83a&page=0_0#
+ * */
 package Televisao.Main;
 
 import Televisao.Classes.*;
